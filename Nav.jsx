@@ -10,10 +10,11 @@ function Nav() {
           <NavLink to="/">HOME</NavLink>
           <NavLink to="/about">WHAT ARE WE?</NavLink>
           <NavLink to="/launch">WHEN WE LAUNCH?</NavLink>
-          <NavLink to="/footer">SOCIALS</NavLink>
+          <NavLink to="/footer">SOCIAL LINKS</NavLink>
    
     </div>
   )
 }
 
 export default Nav
+
